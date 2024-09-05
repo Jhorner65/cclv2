@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cclc
+    env: docker
+    plan: free
